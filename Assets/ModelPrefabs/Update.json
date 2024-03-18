@@ -1,0 +1,7 @@
+[
+   {"Name":"Водородная энергетика","Version":1,"Label":"1HydrogenEnergy","Size":1234.32},
+   {"Name":"Климатическая трансформация энергетической области","Version":1,"Label":"2EnergFieldClimTrans","Size":324.32},
+   {"Name":"Распределеннная и возобновляемая энергетика","Version":1,"Label":"3DistrRenewEnergy","Size":3434.32},
+   {"Name":"Цифровая энергетика","Version":1,"Label":"4DigitEnergy","Size":6664.32},
+   {"Name":"Энергетика больших мощностей нового поколения","Version":1,"Label":"5NewGenHighCapEnergy","Size":5554.32}
+]   

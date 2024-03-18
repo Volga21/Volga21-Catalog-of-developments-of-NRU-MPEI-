@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Osevaia_turbina
+  m_Controller: {fileID: 9100000, guid: 870295437bd9b70449a73eef2831ca26, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b4d61d461b21de54f96a33b901900a7d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45d0a04355c82264c964ecaa424714bd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 31c3cff4f7787674f8d5896a3ac4b2c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 15f7d95b1e720fb40a36deb39930b9d2, type: 2}

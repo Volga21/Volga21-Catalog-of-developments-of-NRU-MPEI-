@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c20320f9d3d8f214f869f91afbe2f73d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mat: {instanceID: 0}
+  - videoClip: {instanceID: 0}
+  - sliceMat: {fileID: 2100000, guid: a561d425ceb8e554abdbb06f682aa274, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

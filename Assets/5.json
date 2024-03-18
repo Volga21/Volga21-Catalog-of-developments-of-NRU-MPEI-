@@ -1,0 +1,9 @@
+[
+    {"Name":"Повышающий гидротрансформатор","Version":1,"Size":2.4,"SubVersion":0},
+    {"Name":"Струйный насос с закруткой потока","Version":1,"Size":0.376,"SubVersion":0},
+    {"Name":"Осевая турбина","Version":1,"Size":10.5,"SubVersion":1},
+    {"Name":"Турбина на сверхкритическом диоксиде углeрода","Version":1,"Size":8.7,"SubVersion":1},
+    {"Name":"Модернизация проточной части","Version":1,"Size":3.0,"SubVersion":1},
+    {"Name":"Паровая турбина K-1000-350","Version":1,"Size":65.9,"SubVersion":1},
+    {"Name":"Паровой котел БМ-35-РФ","Version":1,"Size":72.1,"SubVersion":1}
+]

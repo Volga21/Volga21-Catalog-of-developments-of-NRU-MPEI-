@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7916886370472326921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7392023931052502451}
+  - component: {fileID: 5853101770143506966}
+  - component: {fileID: 8565444368126564060}
+  - component: {fileID: 5853101770143506967}
+  m_Layer: 0
+  m_Name: "\u041F\u0435\u043B\u043B\u0435\u0442\u043D\u044B\u0439 \u043A\u043E\u0442\u0435\u043B"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7392023931052502451
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7916886370472326921}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+  m_LocalPosition: {x: 0, y: 1.25, z: 0}
+  m_LocalScale: {x: 15, y: 15, z: 15}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 270, y: 0, z: 180}
+--- !u!33 &5853101770143506966
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7916886370472326921}
+  m_Mesh: {fileID: -2432090755550338912, guid: d36551a46622f164b8e2a89c63723323, type: 3}
+--- !u!23 &8565444368126564060
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7916886370472326921}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  - {fileID: 2100000, guid: 09cda6e2846da714bb4895a5df8fde24, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &5853101770143506967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7916886370472326921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c48bfec7d7639e478d199428ec56d28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "\u041F\u0435\u043B\u043B\u0435\u0442\u043D\u044B\u0439 \u043A\u043E\u0442\u0435\u043B"
+  modelName: "\u041F\u0435\u043B\u043B\u0435\u0442\u043D\u044B\u0439 \u043A\u043E\u0442\u0435\u043B"
+  hasShortDescr: 0
+  canSlice: 0
+  hasAnimation: 0
+  hasVideo: 0
+  hasDoc: 1
+  hasLink: 0
+  parts: []
+  pages:
+  - {fileID: 21300000, guid: 253d8044eaad8e04d9440e7a1ef3d814, type: 3}
+  - {fileID: 21300000, guid: ef0d060c300e4d844aea221c68aef257, type: 3}
+  videoClip: {fileID: 0}
+  materialsToSlice: []
+  URLNames: []
+  URLLinks: []
+  currentAnimateState: 0
+  animationNames: []
