@@ -7,5 +7,5 @@
 <img width="843" alt="Снимок экрана 2024-03-20 в 22 58 22" src="https://github.com/Volga21/Volga21-Catalog-of-developments-of-NRU-MPEI-/assets/65872165/2b66bce4-2c62-467f-b95e-59debeb3c41a">
 <img width="836" alt="Снимок экрана 2024-03-20 в 22 58 11" src="https://github.com/Volga21/Volga21-Catalog-of-developments-of-NRU-MPEI-/assets/65872165/87de6e48-3096-46a6-ade8-93e2a4ba4831">
 <img width="836" alt="Снимок экрана 2024-03-20 в 22 59 00" src="https://github.com/Volga21/Volga21-Catalog-of-developments-of-NRU-MPEI-/assets/65872165/3b8ee481-49c8-4e87-8d06-0e1df75b0064">
+<img width="844" alt="Снимок экрана 2024-03-20 в 22 55 27" src="https://github.com/Volga21/Volga21-Catalog-of-developments-of-NRU-MPEI-/assets/65872165/2703a77e-be67-4fce-8885-a6b8ebb2fe4b">
 <img width="845" alt="Снимок экрана 2024-03-20 в 22 03 07" src="https://github.com/Volga21/Volga21-Catalog-of-developments-of-NRU-MPEI-/assets/65872165/f5e5481a-db79-4053-a4d6-60e02498a18f">
-
